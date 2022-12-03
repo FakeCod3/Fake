@@ -1,0 +1,839 @@
+{
+    "AOREC": [
+        {
+            "aorec": "Realme|1|CPH1861"
+        },
+        {
+            "aorec": "Realme|2 Pro|RMX1801"
+        },
+        {
+            "aorec": "Realme|2 Pro|RMX1803"
+        },
+        {
+            "aorec": "Realme|2 Pro|RMX1807"
+        },
+        {
+            "aorec": "Realme|2|RMX1805"
+        },
+        {
+            "aorec": "Realme|2|RMX1809"
+        },
+        {
+            "aorec": "Realme|3 2019 |RMX1825"
+        },
+        {
+            "aorec": "Realme|3 Pro|RMX1851"
+        },
+        {
+            "aorec": "Realme|3 Pro|RMX1853"
+        },
+        {
+            "aorec": "Realme|3i|RMX1827"
+        },
+        {
+            "aorec": "Realme|3|RMX1821"
+        },
+        {
+            "aorec": "Realme|3|RMX1822"
+        },
+        {
+            "aorec": "Realme|5 Pro|RMX1971"
+        },
+        {
+            "aorec": "Realme|5 Pro|RMX1973"
+        },
+        {
+            "aorec": "Realme|5i|RMX2030"
+        },
+        {
+            "aorec": "Realme|5i|RMX2031"
+        },
+        {
+            "aorec": "Realme|5i|RMX2032"
+        },
+        {
+            "aorec": "Realme|5i|RMX2163"
+        },
+        {
+            "aorec": "Realme|5s|RMX1929"
+        },
+        {
+            "aorec": "Realme|5|RMX1911"
+        },
+        {
+            "aorec": "Realme|5|RMX1915"
+        },
+        {
+            "aorec": "Realme|5|RMX1919"
+        },
+        {
+            "aorec": "Realme|5|RMX1925"
+        },
+        {
+            "aorec": "Realme|5|RMX1926"
+        },
+        {
+            "aorec": "Realme|5|RMX1927"
+        },
+        {
+            "aorec": "Realme|6 Pro|RMX2061"
+        },
+        {
+            "aorec": "Realme|6i|RMX2040"
+        },
+        {
+            "aorec": "Realme|6i|RMX2041"
+        },
+        {
+            "aorec": "Realme|6i|RMX2042"
+        },
+        {
+            "aorec": "Realme|6i|RMX2063"
+        },
+        {
+            "aorec": "Realme|6s|RMX2002"
+        },
+        {
+            "aorec": "Realme|6|RMX2001"
+        },
+        {
+            "aorec": "Realme|6|RMX2003"
+        },
+        {
+            "aorec": "Realme|7 5G |RMX2111"
+        },
+        {
+            "aorec": "Realme|7 Pro|RMX2170"
+        },
+        {
+            "aorec": "Realme|7i|RMX2103"
+        },
+        {
+            "aorec": "Realme|7|RMX2151"
+        },
+        {
+            "aorec": "Realme|7|RMX2155"
+        },
+        {
+            "aorec": "Realme|8 Pro|RMX3081"
+        },
+        {
+            "aorec": "Realme|8i|RMX3151"
+        },
+        {
+            "aorec": "Realme|8s 5G |RMX3381"
+        },
+        {
+            "aorec": "Realme|8|RMX3085"
+        },
+        {
+            "aorec": "Realme|8|RMX3092"
+        },
+        {
+            "aorec": "Realme|8|RMX3241"
+        },
+        {
+            "aorec": "Realme|9 Pro+|RMX3392"
+        },
+        {
+            "aorec": "Realme|9 Pro+|RMX3393"
+        },
+        {
+            "aorec": "Realme|9 Pro|RMX3471"
+        },
+        {
+            "aorec": "Realme|9 Pro|RMX3472"
+        },
+        {
+            "aorec": "Realme|9i 5G |RMX3612"
+        },
+        {
+            "aorec": "Realme|9i|RMX3491"
+        },
+        {
+            "aorec": "Realme|9i|RMX3493"
+        },
+        {
+            "aorec": "Realme|9|RMX3388"
+        },
+        {
+            "aorec": "Realme|9|RMX3521"
+        },
+        {
+            "aorec": "Realme|C11 2021 |RMX3231"
+        },
+        {
+            "aorec": "Realme|C11|RMX2185"
+        },
+        {
+            "aorec": "Realme|C12|RMX2189"
+        },
+        {
+            "aorec": "Realme|C15|RMX2180"
+        },
+        {
+            "aorec": "Realme|C15|RMX2195"
+        },
+        {
+            "aorec": "Realme|C17|RMX2101"
+        },
+        {
+            "aorec": "Realme|C1|RMX1811"
+        },
+        {
+            "aorec": "Realme|C20|RMX3061"
+        },
+        {
+            "aorec": "Realme|C20|RMX3063"
+        },
+        {
+            "aorec": "Realme|C21Y|RMX3261"
+        },
+        {
+            "aorec": "Realme|C21Y|RMX3263"
+        },
+        {
+            "aorec": "Realme|C21|RMX3201"
+        },
+        {
+            "aorec": "Realme|C21|RMX3203"
+        },
+        {
+            "aorec": "Realme|C25s|RMX3195"
+        },
+        {
+            "aorec": "Realme|C25s|RMX3197"
+        },
+        {
+            "aorec": "Realme|C25Y|RMX3265"
+        },
+        {
+            "aorec": "Realme|C25Y|RMX3268"
+        },
+        {
+            "aorec": "Realme|C25Y|RMX3269"
+        },
+        {
+            "aorec": "Realme|C25|RMX3191"
+        },
+        {
+            "aorec": "Realme|C25|RMX3193"
+        },
+        {
+            "aorec": "Realme|C2|RMX1941"
+        },
+        {
+            "aorec": "Realme|C2|RMX1942"
+        },
+        {
+            "aorec": "Realme|C2|RMX1943"
+        },
+        {
+            "aorec": "Realme|C2|RMX1945"
+        },
+        {
+            "aorec": "Realme|C2|RMX1946"
+        },
+        {
+            "aorec": "Realme|C30|RMX3581"
+        },
+        {
+            "aorec": "Realme|C31|RMX3501"
+        },
+        {
+            "aorec": "Realme|C31|RMX3503"
+        },
+        {
+            "aorec": "Realme|C35|RMX3511"
+        },
+        {
+            "aorec": "Realme|C35|RMX3513"
+        },
+        {
+            "aorec": "Realme|C3|RMX2020"
+        },
+        {
+            "aorec": "Realme|C3|RMX2021"
+        },
+        {
+            "aorec": "Realme|C3|RMX2022"
+        },
+        {
+            "aorec": "Realme|C3|RMX2027"
+        },
+        {
+            "aorec": "Realme|GT 5G |RMX2202"
+        },
+        {
+            "aorec": "Realme|GT Master Edition 5G |RMX3360"
+        },
+        {
+            "aorec": "Realme|GT Master Edition 5G |RMX3363"
+        },
+        {
+            "aorec": "Realme|GT Master Edition|RMX3366"
+        },
+        {
+            "aorec": "Realme|GT Neo 2s|RMX3310"
+        },
+        {
+            "aorec": "Realme|GT Neo 2T|RMX3357"
+        },
+        {
+            "aorec": "Realme|GT Neo 2|RMX3370"
+        },
+        {
+            "aorec": "Realme|GT Neo 3 5G |RMX3561"
+        },
+        {
+            "aorec": "Realme|GT Neo 3T|RMX3371"
+        },
+        {
+            "aorec": "Realme|GT Neo3 5G |RMX3563"
+        },
+        {
+            "aorec": "Realme|GT Neo|RMX3031"
+        },
+        {
+            "aorec": "Realme|GT Neo|RMX3350"
+        },
+        {
+            "aorec": "Realme|GT2 Explorer Master|RMX3551"
+        },
+        {
+            "aorec": "Realme|GT2 Pro|RMX3300"
+        },
+        {
+            "aorec": "Realme|GT2 Pro|RMX3301"
+        },
+        {
+            "aorec": "Realme|GT2|RMX3311"
+        },
+        {
+            "aorec": "Realme|GT2|RMX3312"
+        },
+        {
+            "aorec": "Realme|Narzo 20 Pro|RMX2161"
+        },
+        {
+            "aorec": "Realme|Narzo 20A|RMX2050"
+        },
+        {
+            "aorec": "Realme|Narzo 20|RMX2193"
+        },
+        {
+            "aorec": "Realme|Narzo 30 5G |RMX3242"
+        },
+        {
+            "aorec": "Realme|Narzo 30 5G |RMX3474"
+        },
+        {
+            "aorec": "Realme|Narzo 30A|RMX3171"
+        },
+        {
+            "aorec": "Realme|Narzo 30|RMX2156"
+        },
+        {
+            "aorec": "Realme|Narzo 50 5G |RMX3572"
+        },
+        {
+            "aorec": "Realme|Narzo 50A Prime|RMX3516"
+        },
+        {
+            "aorec": "Realme|Narzo 50A|RMX3430"
+        },
+        {
+            "aorec": "Realme|Narzo 50i|RMX3235"
+        },
+        {
+            "aorec": "Realme|Narzo 50|RMX3286"
+        },
+        {
+            "aorec": "Realme|Q2 5G |RMX2117"
+        },
+        {
+            "aorec": "Realme|Q2 Pro|RMX2173"
+        },
+        {
+            "aorec": "Realme|Q2i 5G |RMX2200"
+        },
+        {
+            "aorec": "Realme|Q3 5G |RMX3161"
+        },
+        {
+            "aorec": "Realme|Q3 Pro 5G |RMX2205"
+        },
+        {
+            "aorec": "Realme|Q3 Pro|RMX3142"
+        },
+        {
+            "aorec": "Realme|Q3s|RMX3461"
+        },
+        {
+            "aorec": "Realme|U1|RMX1831"
+        },
+        {
+            "aorec": "Realme|1|CPH1861"
+        },
+        {
+            "aorec": "Realme|2 Pro|RMX1801"
+        },
+        {
+            "aorec": "Realme|2 Pro|RMX1803"
+        },
+        {
+            "aorec": "Realme|2 Pro|RMX1807"
+        },
+        {
+            "aorec": "Realme|2|RMX1805"
+        },
+        {
+            "aorec": "Realme|2|RMX1809"
+        },
+        {
+            "aorec": "Realme|3 2019 |RMX1825"
+        },
+        {
+            "aorec": "Realme|3 Pro|RMX1851"
+        },
+        {
+            "aorec": "Realme|3 Pro|RMX1853"
+        },
+        {
+            "aorec": "Realme|3i|RMX1827"
+        },
+        {
+            "aorec": "Realme|3|RMX1821"
+        },
+        {
+            "aorec": "Realme|3|RMX1822"
+        },
+        {
+            "aorec": "Realme|5 Pro|RMX1971"
+        },
+        {
+            "aorec": "Realme|5 Pro|RMX1973"
+        },
+        {
+            "aorec": "Realme|5i|RMX2030"
+        },
+        {
+            "aorec": "Realme|5i|RMX2031"
+        },
+        {
+            "aorec": "Realme|5i|RMX2032"
+        },
+        {
+            "aorec": "Realme|5i|RMX2163"
+        },
+        {
+            "aorec": "Realme|5s|RMX1929"
+        },
+        {
+            "aorec": "Realme|5|RMX1911"
+        },
+        {
+            "aorec": "Realme|5|RMX1915"
+        },
+        {
+            "aorec": "Realme|5|RMX1919"
+        },
+        {
+            "aorec": "Realme|5|RMX1925"
+        },
+        {
+            "aorec": "Realme|5|RMX1926"
+        },
+        {
+            "aorec": "Realme|5|RMX1927"
+        },
+        {
+            "aorec": "Realme|6 Pro|RMX2061"
+        },
+        {
+            "aorec": "Realme|6i|RMX2040"
+        },
+        {
+            "aorec": "Realme|6i|RMX2041"
+        },
+        {
+            "aorec": "Realme|6i|RMX2042"
+        },
+        {
+            "aorec": "Realme|6i|RMX2063"
+        },
+        {
+            "aorec": "Realme|6s|RMX2002"
+        },
+        {
+            "aorec": "Realme|6|RMX2001"
+        },
+        {
+            "aorec": "Realme|6|RMX2003"
+        },
+        {
+            "aorec": "Realme|7 5G |RMX2111"
+        },
+        {
+            "aorec": "Realme|7 Pro|RMX2170"
+        },
+        {
+            "aorec": "Realme|7i|RMX2103"
+        },
+        {
+            "aorec": "Realme|7|RMX2151"
+        },
+        {
+            "aorec": "Realme|7|RMX2155"
+        },
+        {
+            "aorec": "Realme|8 Pro|RMX3081"
+        },
+        {
+            "aorec": "Realme|8i|RMX3151"
+        },
+        {
+            "aorec": "Realme|8s 5G |RMX3381"
+        },
+        {
+            "aorec": "Realme|8|RMX3085"
+        },
+        {
+            "aorec": "Realme|8|RMX3092"
+        },
+        {
+            "aorec": "Realme|8|RMX3241"
+        },
+        {
+            "aorec": "Realme|9 Pro+|RMX3392"
+        },
+        {
+            "aorec": "Realme|9 Pro+|RMX3393"
+        },
+        {
+            "aorec": "Realme|9 Pro|RMX3471"
+        },
+        {
+            "aorec": "Realme|9 Pro|RMX3472"
+        },
+        {
+            "aorec": "Realme|9i 5G |RMX3612"
+        },
+        {
+            "aorec": "Realme|9i|RMX3491"
+        },
+        {
+            "aorec": "Realme|9i|RMX3493"
+        },
+        {
+            "aorec": "Realme|9|RMX3388"
+        },
+        {
+            "aorec": "Realme|9|RMX3521"
+        },
+        {
+            "aorec": "Realme|C11 2021 |RMX3231"
+        },
+        {
+            "aorec": "Realme|C11|RMX2185"
+        },
+        {
+            "aorec": "Realme|C12|RMX2189"
+        },
+        {
+            "aorec": "Realme|C15|RMX2180"
+        },
+        {
+            "aorec": "Realme|C15|RMX2195"
+        },
+        {
+            "aorec": "Realme|C17|RMX2101"
+        },
+        {
+            "aorec": "Realme|C1|RMX1811"
+        },
+        {
+            "aorec": "Realme|C20|RMX3061"
+        },
+        {
+            "aorec": "Realme|C20|RMX3063"
+        },
+        {
+            "aorec": "Realme|C21Y|RMX3261"
+        },
+        {
+            "aorec": "Realme|C21Y|RMX3263"
+        },
+        {
+            "aorec": "Realme|C21|RMX3201"
+        },
+        {
+            "aorec": "Realme|C21|RMX3203"
+        },
+        {
+            "aorec": "Realme|C25s|RMX3195"
+        },
+        {
+            "aorec": "Realme|C25s|RMX3197"
+        },
+        {
+            "aorec": "Realme|C25Y|RMX3265"
+        },
+        {
+            "aorec": "Realme|C25Y|RMX3268"
+        },
+        {
+            "aorec": "Realme|C25Y|RMX3269"
+        },
+        {
+            "aorec": "Realme|C25|RMX3191"
+        },
+        {
+            "aorec": "Realme|C25|RMX3193"
+        },
+        {
+            "aorec": "Realme|C2|RMX1941"
+        },
+        {
+            "aorec": "Realme|C2|RMX1942"
+        },
+        {
+            "aorec": "Realme|C2|RMX1943"
+        },
+        {
+            "aorec": "Realme|C2|RMX1945"
+        },
+        {
+            "aorec": "Realme|C2|RMX1946"
+        },
+        {
+            "aorec": "Realme|C30|RMX3581"
+        },
+        {
+            "aorec": "Realme|C31|RMX3501"
+        },
+        {
+            "aorec": "Realme|C31|RMX3503"
+        },
+        {
+            "aorec": "Realme|C35|RMX3511"
+        },
+        {
+            "aorec": "Realme|C35|RMX3513"
+        },
+        {
+            "aorec": "Realme|C3|RMX2020"
+        },
+        {
+            "aorec": "Realme|C3|RMX2021"
+        },
+        {
+            "aorec": "Realme|C3|RMX2022"
+        },
+        {
+            "aorec": "Realme|C3|RMX2027"
+        },
+        {
+            "aorec": "Realme|GT 5G |RMX2202"
+        },
+        {
+            "aorec": "Realme|GT Master Edition 5G |RMX3360"
+        },
+        {
+            "aorec": "Realme|GT Master Edition 5G |RMX3363"
+        },
+        {
+            "aorec": "Realme|GT Master Edition|RMX3366"
+        },
+        {
+            "aorec": "Realme|GT Neo 2s|RMX3310"
+        },
+        {
+            "aorec": "Realme|GT Neo 2T|RMX3357"
+        },
+        {
+            "aorec": "Realme|GT Neo 2|RMX3370"
+        },
+        {
+            "aorec": "Realme|GT Neo 3 5G |RMX3561"
+        },
+        {
+            "aorec": "Realme|GT Neo 3T|RMX3371"
+        },
+        {
+            "aorec": "Realme|GT Neo3 5G |RMX3563"
+        },
+        {
+            "aorec": "Realme|GT Neo|RMX3031"
+        },
+        {
+            "aorec": "Realme|GT Neo|RMX3350"
+        },
+        {
+            "aorec": "Realme|GT2 Explorer Master|RMX3551"
+        },
+        {
+            "aorec": "Realme|GT2 Pro|RMX3300"
+        },
+        {
+            "aorec": "Realme|GT2 Pro|RMX3301"
+        },
+        {
+            "aorec": "Realme|GT2|RMX3311"
+        },
+        {
+            "aorec": "Realme|GT2|RMX3312"
+        },
+        {
+            "aorec": "Realme|Narzo 20 Pro|RMX2161"
+        },
+        {
+            "aorec": "Realme|Narzo 20A|RMX2050"
+        },
+        {
+            "aorec": "Realme|Narzo 20|RMX2193"
+        },
+        {
+            "aorec": "Realme|Narzo 30 5G |RMX3242"
+        },
+        {
+            "aorec": "Realme|Narzo 30 5G |RMX3474"
+        },
+        {
+            "aorec": "Realme|Narzo 30A|RMX3171"
+        },
+        {
+            "aorec": "Realme|Narzo 30|RMX2156"
+        },
+        {
+            "aorec": "Realme|Narzo 50 5G |RMX3572"
+        },
+        {
+            "aorec": "Realme|Narzo 50A Prime|RMX3516"
+        },
+        {
+            "aorec": "Realme|Narzo 50A|RMX3430"
+        },
+        {
+            "aorec": "Realme|Narzo 50i|RMX3235"
+        },
+        {
+            "aorec": "Realme|Narzo 50|RMX3286"
+        },
+        {
+            "aorec": "Realme|Q2 5G |RMX2117"
+        },
+        {
+            "aorec": "Realme|Q2 Pro|RMX2173"
+        },
+        {
+            "aorec": "Realme|Q2i 5G |RMX2200"
+        },
+        {
+            "aorec": "Realme|Q3 5G |RMX3161"
+        },
+        {
+            "aorec": "Realme|Q3 Pro 5G |RMX2205"
+        },
+        {
+            "aorec": "Realme|Q3 Pro|RMX3142"
+        },
+        {
+            "aorec": "Realme|Q3s|RMX3461"
+        },
+        {
+            "aorec": "Realme|U1|RMX1831"
+        },
+        {
+            "aorec": "Realme|U1|RMX1833"
+        },
+        {
+            "aorec": "Realme|V11 5G |RMX3121"
+        },
+        {
+            "aorec": "Realme|V13 5G |RMX3041"
+        },
+        {
+            "aorec": "Realme|V13 5G |RMX3042"
+        },
+        {
+            "aorec": "Realme|V13 5G |RMX3043"
+        },
+        {
+            "aorec": "Realme|V20|RMX3610"
+        },
+        {
+            "aorec": "Realme|V23|RMX3571"
+        },
+        {
+            "aorec": "Realme|V25|RMX3475"
+        },
+        {
+            "aorec": "Realme|X2 Pro|RMX1931"
+        },
+        {
+            "aorec": "Realme|X2|RMX1992"
+        },
+        {
+            "aorec": "Realme|X2|RMX1993"
+        },
+        {
+            "aorec": "Realme|X3 Super Zoom|RMX2085"
+        },
+        {
+            "aorec": "Realme|X3 SuperZoom|RMX2086"
+        },
+        {
+            "aorec": "Realme|X3|RMX2081"
+        },
+        {
+            "aorec": "Realme|X3|RMX2083"
+        },
+        {
+            "aorec": "Realme|X3|RMX2142"
+        },
+        {
+            "aorec": "Realme|X50 5G SE|RMX2025"
+        },
+        {
+            "aorec": "Realme|X50 5G |RMX2051"
+        },
+        {
+            "aorec": "Realme|X50 5G |RMX2144"
+        },
+        {
+            "aorec": "Realme|X50 Pro 5G |RMX2071"
+        },
+        {
+            "aorec": "Realme|X50 Pro 5G |RMX2075"
+        },
+        {
+            "aorec": "Realme|X50 Pro 5G |RMX2076"
+        },
+        {
+            "aorec": "Realme|X50 Pro Player Edition|RMX2072"
+        },
+        {
+            "aorec": "Realme|X7 Pro 5G |RMX2121"
+        },
+        {
+            "aorec": "Realme|X7|RMX2176"
+        },
+        {
+            "aorec": "Realme|XT|RMX1921"
+        },
+        {
+            "aorec": "Realme|XT|RMX1922"
+        },
+        {
+            "aorec": "Realme|XT|RMX1991"
+        },
+        {
+            "aorec": "Realme|X|RMX1901"
+        },
+        {
+            "aorec": "Realme|X|RMX1903"
+        }
+    ]
+}
+
